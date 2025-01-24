@@ -1,0 +1,7 @@
+body{
+    background-color: brown;
+    background-image: url(../rasmlar/M5F90.jpg);
+    background-repeat: no-repeat;          /* no-repeat,repeat-x,repeat-y */
+    background-size:50% ;                  /*%,px, cover */
+    background-position: 200px; 200px      /*x[left center right] y[top center bottom]*/
+}
